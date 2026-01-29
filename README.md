@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishnudev Jayakumar</h1>
+<h3 align="center">🚀 Python Full Stack Developer | Kottayam, Kerala 🇮🇳</h3>
 
-<!--
-**vishnudev3154/vishnudev3154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+✨ Passionate **Python Full Stack Developer** with experience in building scalable, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real-world solutions using **Django + React** and modern web tools.
+
+- 🔭 Working on full-stack & Django projects  
+- 🌱 Continuously learning new technologies  
+- 💡 Love clean code & problem solving  
+- 🤝 Open to internships, freelance & full-time roles  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📌 Featured Work
+🔹 Django Web Applications  
+🔹 REST API Development  
+🔹 Full Stack Projects (React + Django)  
+🔹 Clean UI & Responsive Design  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/your-username">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, don’t forget to star my repositories!**  
