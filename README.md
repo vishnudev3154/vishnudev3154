@@ -72,13 +72,13 @@ I enjoy turning ideas into real-world solutions using **Django + React** and mod
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/vishnudev3154">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vishnudevjayakumar54@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/vishnudev-jayakumar-970400381/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
